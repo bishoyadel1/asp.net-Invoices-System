@@ -1,0 +1,12 @@
+F:\C#PROJECT\FreeInvoices\Domin\bin\Debug\net6.0\Domin.deps.json
+F:\C#PROJECT\FreeInvoices\Domin\bin\Debug\net6.0\Domin.dll
+F:\C#PROJECT\FreeInvoices\Domin\bin\Debug\net6.0\Domin.pdb
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.csproj.AssemblyReference.cache
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.AssemblyInfoInputs.cache
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.AssemblyInfo.cs
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.csproj.CoreCompileInputs.cache
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.dll
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\refint\Domin.dll
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\Domin.pdb
+F:\C#PROJECT\FreeInvoices\Domin\obj\Debug\net6.0\ref\Domin.dll
